@@ -9,18 +9,18 @@ I am a second year Master student at the Department of Mechanical Engineering, [
 
 I obtained my Bachelor's degree from Xi'an Jiaotong University in 2021. 
 
+
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Mechianical Engineering:** AI4Engineer, AI4Science, Signal Processing
+- **Machine Learning:** Diffusion Model, Transfer Learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jul. 2022]** Our paper about Fault diagnosis is accepted to KBS.
+- **[Jul. 2021]** Graguated from XJTU.
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
