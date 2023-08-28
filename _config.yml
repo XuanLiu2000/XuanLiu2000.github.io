@@ -1,6 +1,6 @@
 # Basic Information 
 title: Xuan Liu
-position: Ph.D. Student
+position: Master Student
 affiliation: Xi'an Jiaotong University
 email: lx0409@stu.xjtu.edu.cn
 
@@ -12,7 +12,7 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-#google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=vdW2HhUAAAAJ
 cv_link: assets/files/CV_xjtu_XuanLiu-v1.2.pdf
 github_link: https://github.com/xuanliu2000
 #linkedin: https://www.linkedin.com/
@@ -30,7 +30,7 @@ enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+auto_dark_mode: =false
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
