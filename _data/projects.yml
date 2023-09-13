@@ -1,11 +1,13 @@
 main:
 
   - title: Low-Cost Remote Control Servo Quadruped Robot
+    authors: Deployed an eight-servo quadrupedal gait with pitch control; Implemented a bluetooth-enabled remote control system with its corresponding mobile application; Mechanism design (via Solidworks) and fabrication (via 3D print)
     pdf: https://www.bilibili.com/video/BV1nf4y1V7Hk/?spm_id_from=333.999.0.0
     image: ./assets/img/sizu.png
-    notes: 20FALL Product Design Course Project
+    notes: Product Design Course Project
 
   - title: Indoor Assistive Robot for Elderly People
+    authors: Developed and deployed an SSD-based face detection algorithm; Designed a lifting mechanism tailored to the natural curvature of the human body (via Solidworks) and strength check (via Ansys)
     pdf: https://www.youtube.com/watch?v=ma8VQnafok4
     image: ./assets/img/lefu.png
     notes: National First Prize of Chinese University Students' Mechanical Innovation Competition

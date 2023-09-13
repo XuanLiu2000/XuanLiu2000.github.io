@@ -4,7 +4,7 @@ main:
     authors: <strong>Xuan Liu*</strong>, Jinglong Chen, Kaiyu Zhang, Shen Liu, Shuilong He, Zitong Zhou
     conference_short: KBS
     conference: Knowledge-Based Systems. <strong>(KBS)</strong>, 2022.
-#    pdf: ./assets/files/Cross-domain intelligent bearing fault diagnosis under class imbalanced samples via transfer residual network augmented with explicit weight self-assignment strategy based on meta data.pdf
+    pdf: ./assets/files/Cross-domain intelligent bearing fault diagnosis under class imbalanced samples via transfer residual network augmented with explicit weight self-assignment strategy based on meta data.pdf
 #    code: https://github.com/MrGiovanni/ContinualLearning
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/TRN_EWM.png
@@ -12,8 +12,9 @@ main:
 
   - title: A multi-branch redundant adversarial net for intelligent fault diagnosis of multiple components under drastically variable speeds
     authors: Zhen Shi*, <strong>Xuan Liu</strong>, Jinglong Chen, Yanyang Zi, Zitong Zhou
-    conference_short: ISA.
+    conference_short: ISA
     conference: ISA transactions. <strong>(ISA)</strong>, 2022.
+    pdf: ./assets/files/A multi-branch redundant adversarial net for intelligent fault diagnosis of multiple components under drastically variable speeds.pdf
     image: ./assets/img/RedundancyNet.png
 
 
@@ -27,14 +28,3 @@ main:
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
 #    image: ./assets/img/teaser_example_2.png
 #    notes: Early Accept
-#
-#  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-#    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-#    conference_short: CVPR
-#    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-#    pdf: https://arxiv.org/pdf/2002.10211.pdf
-#    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-#    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-#    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-#    notes: Oral Presentation
-#    image: ./assets/img/teaser_example.png

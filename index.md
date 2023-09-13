@@ -7,7 +7,7 @@ layout: homepage
 Welcome to my website. I'm <strong>Xuan Liu</strong>,&nbsp;
 but you can also call me <strong>Lucian</strong> – it's phonetically similar to my Chinese name, <strong>刘璇</strong>.
 
-I'm currently a second-year Master's student in Mechanical Engineering at &nbsp;
+I'm currently a third-year Master's student in Mechanical Engineering at &nbsp;
 [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)(<b>XJTU</b>),&nbsp;
 under the guidance of Prof. [Jinglong Chen](https://scholar.google.com/citations?user=wEGyDvkAAAAJ).&nbsp;
 Prior to this, I completed my B.E. degree in Mechanical Engineering from XJTU and a jointly-awarded second B.E. degree in Computer Science from CAS in 2021.
@@ -22,7 +22,7 @@ Prior to this, I completed my B.E. degree in Mechanical Engineering from XJTU an
 ## News
 
 - **[Jul. 2022]** TRN-EWM is published by KBS.
-- **[Jul. 2021]** Graduating with a bachelor's degree and continued my master's project at XJTU.
+- **[Jul. 2021]** Graduated with a bachelor's degree and continued my master's project at XJTU.
 
 {% include_relative _includes/publications.md %}
 
