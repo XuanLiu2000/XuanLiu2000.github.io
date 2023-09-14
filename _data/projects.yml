@@ -12,6 +12,11 @@ main:
     image: ./assets/img/lefu.png
     notes: National First Prize of Chinese University Students' Mechanical Innovation Competition
 
+  - title: ABU Robocon Competitive Robot Project
+    authors: Designed and fabricated two competition-ready robots (Including wheeled mobility, obstacle navigation, and projectile tasks);Mechanism design(via Solidworks, AutoCad) and fabrication (via 3D print, CNC)
+    image: ./assets/img/Robocon.png
+    notes: National First Prize of Chinese Asian-Oceanian College Robot Competition
+
 #  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
 #    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
 #    conference_short: MICCAI
