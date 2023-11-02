@@ -1,11 +1,31 @@
 main:
 
+  - title: Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model
+    authors: <strong>Xuan Liu*</strong>, Jinglong Chen, Jingsong Xie, Yuanhong Chang
+    conference_short: Preprint
+    conference: IEEE Transactions on Intelligent Transportation Systems.  <strong>(TITS, Submitted)</strong>, 2023.
+    pdf: https://arxiv.org/abs/2311.00496
+#    code: https://github.com/xuanliu2000/VGCDM
+#    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/VGCDM.png
+#    notes: Early Accept
+
+  - title: ntelligent Fault Diagnosis under Imbalanced Multivariate Working Conditions Leveraging Dynamic Unsupervised Domain Adaptation with Sample and Margin Regularization
+    authors: Zipeng Li*, <strong>Xuan Liu*</strong>, Jinglong Chen, Kaiyu Zhang
+#    conference_short: Preprint
+    conference: Measurement (Under Review), 2023.
+    pdf: https://arxiv.org/abs/2311.00496
+#    code: https://github.com/xuanliu2000/VGCDM
+#    bibtex: https://bib.yliu.me/MICCAI23.txt
+#    image: ./assets/img/VGCDM.png
+#    notes: Early Accept
+
   - title: Cross-domain intelligent bearing fault diagnosis under class imbalanced samples via transfer residual network augmented with explicit weight self-assignment strategy based on meta data
     authors: <strong>Xuan Liu*</strong>, Jinglong Chen, Kaiyu Zhang, Shen Liu, Shuilong He, Zitong Zhou
     conference_short: KBS
     conference: Knowledge-Based Systems. <strong>(KBS)</strong>, 2022.
-    pdf: ./assets/files/Cross-domain intelligent bearing fault diagnosis under class imbalanced samples via transfer residual network augmented with explicit weight self-assignment strategy based on meta data.pdf
-#    code: https://github.com/MrGiovanni/ContinualLearning
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0950705122006384
+#    code: https://github.com/xuanliu2000/TRN-EWM
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/TRN_EWM.png
 #    notes: Early Accept
@@ -14,17 +34,7 @@ main:
     authors: Zhen Shi*, <strong>Xuan Liu</strong>, Jinglong Chen, Yanyang Zi, Zitong Zhou
     conference_short: ISA
     conference: ISA transactions. <strong>(ISA)</strong>, 2022.
-    pdf: ./assets/files/A multi-branch redundant adversarial net for intelligent fault diagnosis of multiple components under drastically variable speeds.pdf
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0019057822000179
     image: ./assets/img/RedundancyNet.png
 
 
-
-#  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-#    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-#    conference_short: MICCAI
-#    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-#    pdf: https://arxiv.org/pdf/2306.00988.pdf
-#    code: https://github.com/MrGiovanni/ContinualLearning
-#    bibtex: https://bib.yliu.me/MICCAI23.txt
-#    image: ./assets/img/teaser_example_2.png
-#    notes: Early Accept
