@@ -1,39 +1,27 @@
 main:
 
   - title: Low-Cost Remote Control Servo Quadruped Robot
-    authors: Deployed an eight-servo quadrupedal gait with pitch control; Implemented a bluetooth-enabled remote control system with its corresponding mobile application; Mechanism design (via Solidworks) and fabrication (via 3D print)
+    work:
+      - Deploy an eight-servo quadrupedal gait with pitch control.
+      - Implement a bluetooth-enabled remote control system with a corresponding mobile application.
+      - Mechanism design (via Solidworks) and fabrication (via 3D print).
     pdf: https://www.bilibili.com/video/BV1nf4y1V7Hk/?spm_id_from=333.999.0.0
     image: ./assets/img/sizu.png
     notes: Product Design Course Project
 
   - title: Indoor Assistive Robot for Elderly People
-    authors: Developed and deployed an SSD-based face detection algorithm; Designed a lifting mechanism tailored to the natural curvature of the human body (via Solidworks) and strength check (via Ansys)
+    work:
+      - National 1st Prize in National College Student Mechanical Design Innovation Competition.
+      - Design a biomimetic flexible protection mechanism that adapts to fit the human back for protection.
+      - Design a lifting mechanism(via Solidworks) suitable for the natural curvature of human body and check mechanical strength(via Ansys).
     pdf: https://www.youtube.com/watch?v=ma8VQnafok4
     image: ./assets/img/lefu.png
     notes: National First Prize of Chinese University Students' Mechanical Innovation Competition
 
   - title: ABU Robocon Competitive Robot Project
-    authors: Designed and fabricated two competition-ready robots (Including wheeled mobility, obstacle navigation, and projectile tasks);Mechanism design(via Solidworks, AutoCad) and fabrication (via 3D print, CNC)
+    work:
+    - National 1st Prize of RoboCon China College Robot Competition.
+    - Design and fabricate two competition-ready robots (Including wheeled mobility, obstacle navigation, and projectile tasks, achieving all tasks under 1 min).
+    - Mechanism design(via Solidworks, AutoCad) and fabrication (via 3D print, CNC).
     image: ./assets/img/Robocon.png
     notes: National First Prize of Chinese Asian-Oceanian College Robot Competition
-
-#  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-#    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-#    conference_short: MICCAI
-#    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-#    pdf: https://arxiv.org/pdf/2306.00988.pdf
-#    code: https://github.com/MrGiovanni/ContinualLearning
-#    bibtex: https://bib.yliu.me/MICCAI23.txt
-#    image: ./assets/img/teaser_example_2.png
-#    notes: Early Accept
-#
-#  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-#    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-#    conference_short: CVPR
-#    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-#    pdf: https://arxiv.org/pdf/2002.10211.pdf
-#    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-#    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-#    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-#    notes: Oral Presentation
-#    image: ./assets/img/teaser_example.png
