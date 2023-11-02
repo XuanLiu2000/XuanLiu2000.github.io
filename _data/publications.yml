@@ -7,17 +7,17 @@ main:
     pdf: https://arxiv.org/abs/2311.00496
 #    code: https://github.com/xuanliu2000/VGCDM
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/VGCDM.png
+    image: ./assets/img/VG_CDM.png
 #    notes: Early Accept
 
-  - title: ntelligent Fault Diagnosis under Imbalanced Multivariate Working Conditions Leveraging Dynamic Unsupervised Domain Adaptation with Sample and Margin Regularization
+  - title: Intelligent Fault Diagnosis under Imbalanced Multivariate Working Conditions Leveraging Dynamic Unsupervised Domain Adaptation with Sample and Margin Regularization
     authors: Zipeng Li*, <strong>Xuan Liu*</strong>, Jinglong Chen, Kaiyu Zhang
-#    conference_short: Preprint
+    conference_short: MEAS
     conference: Measurement (Under Review), 2023.
-    pdf: https://arxiv.org/abs/2311.00496
+#    pdf: https://arxiv.org/abs/2311.00496
 #    code: https://github.com/xuanliu2000/VGCDM
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
-#    image: ./assets/img/VGCDM.png
+    image: ./assets/img/DUIDA.png
 #    notes: Early Accept
 
   - title: Cross-domain intelligent bearing fault diagnosis under class imbalanced samples via transfer residual network augmented with explicit weight self-assignment strategy based on meta data
