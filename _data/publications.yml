@@ -12,8 +12,8 @@ main:
 
   - title: Intelligent Fault Diagnosis under Imbalanced Multivariate Working Conditions Leveraging Dynamic Unsupervised Domain Adaptation with Sample and Margin Regularization
     authors: Zipeng Li*, <strong>Xuan Liu*</strong>, Jinglong Chen, Kaiyu Zhang
-    conference_short: MEAS
-    conference: Measurement (Under Review), 2023.
+#    conference_short: MEAS
+    conference: ISA transactions <strong>(ISA, Under Review)</strong>, 2023.
 #    pdf: https://arxiv.org/abs/2311.00496
 #    code: https://github.com/xuanliu2000/VGCDM
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
