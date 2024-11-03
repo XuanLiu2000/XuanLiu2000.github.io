@@ -4,7 +4,7 @@ main:
     authors: <strong>Xuan Liu*</strong>, Jinglong Chen, Jingsong Xie, Yuanhong Chang
     conference_short: T-ITS
     conference: IEEE Transactions on Intelligent Transportation Systems.  <strong>(T-ITS)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2311.00496
+    pdf: https://ieeexplore.ieee.org/document/10740529
 #    code: https://github.com/xuanliu2000/VGCDM
 #    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/VG_CDM.png
