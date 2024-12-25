@@ -7,7 +7,7 @@ layout: homepage
 Hi there,welcome to my website! My name is <strong>Xuan Liu</strong>,&nbsp;
 but you can also call me <strong>Lucian</strong> – it's phonetically similar to my Chinese name.
 
-I am a first year Ph.D. student of <strong>[ISE](https://www.ise.vt.edu/)</strong> at <strong>[Virginia Tech](https://www.vt.edu/)</strong>, advised by [Prof Zhenyu (James) Kong](https://www.ise.vt.edu/people/faculty/kong.html). Prior to this, I obtained B.Eng and M.Eng in Mechanical Engineering from 
+I am a first year Ph.D. student of <strong>[ISE](https://www.ise.vt.edu/)</strong> at <strong>[Virginia Tech](https://www.vt.edu/)</strong>, advised by [Prof. Zhenyu (James) Kong](https://www.ise.vt.edu/people/faculty/kong.html). Prior to this, I obtained B.Eng and M.Eng in Mechanical Engineering from 
 [Xi'an Jiaotong University](http://en.xjtu.edu.cn/),&nbsp; working with Prof. [Jinglong Chen](https://scholar.google.com/citations?user=wEGyDvkAAAAJ).&nbsp; During my undergraduate, I major in Mechanical Engineering and minor in Computer Science and Technology.
 
 My focus is on utilizing mathematical and computational tools to improve machines throughout their lifecycle, from design and production to long-term reliability. If you want to collaborate or talk with me, please feel to reach out to me.
